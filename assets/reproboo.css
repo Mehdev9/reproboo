@@ -1,0 +1,47 @@
+nav{
+    background-color: rgba(116,49,250,255);
+    height: 50px;
+}
+
+nav a{
+    text-decoration: none;
+    color: white;
+}
+
+nav img{
+    width: 50px;
+    height: 45px;
+    float: right;
+    padding: 5px;
+}
+
+/* div{
+    border: 1px solid ;
+} */
+
+#B{
+    rotate: 350deg;
+}
+
+#themes{
+    list-style: none;
+    
+}
+
+.hover-effect:hover {
+    background-color:#f0e9ff;
+    border-radius: 5px 5px 5px 5px;
+    font-size: large;
+}
+
+#gau{
+    background-color: #ffffff;
+    
+}
+
+footer{
+    background-color: #6c757d;
+}
+footer ul{
+    list-style: none;
+}
